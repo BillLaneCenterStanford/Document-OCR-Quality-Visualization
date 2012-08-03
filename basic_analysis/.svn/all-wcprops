@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/78/trunk/basic_analysis
+END
+analysis_percent_year.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/78/trunk/basic_analysis/analysis_percent_year.sql
+END
+analysis_ratio_vs_geo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/78/trunk/basic_analysis/analysis_ratio_vs_geo.sql
+END
+geocoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/78/trunk/basic_analysis/geocoding.py
+END
+location.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/78/trunk/basic_analysis/location.txt
+END
+newspaper_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/78/trunk/basic_analysis/newspaper_data.csv
+END
+analysis_percent_location.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/78/trunk/basic_analysis/analysis_percent_location.sql
+END
+newspaper_count.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/trunk/basic_analysis/newspaper_count.txt
+END
+percentByPub.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/78/trunk/basic_analysis/percentByPub.csv
+END
+db_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/78/trunk/basic_analysis/db_schema.sql
+END
+newspaper_analysis.xlsx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/78/trunk/basic_analysis/newspaper_analysis.xlsx
+END
+percentByYear.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/78/trunk/basic_analysis/percentByYear.csv
+END
+analysis_percent_pub.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/78/trunk/basic_analysis/analysis_percent_pub.sql
+END
+runAnalysis
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/78/trunk/basic_analysis/runAnalysis
+END
+newspaper_count_to_db_loadfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/78/trunk/basic_analysis/newspaper_count_to_db_loadfile.py
+END
+raw_location.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/78/trunk/basic_analysis/raw_location.csv
+END
+percentByLocation.csv
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/trunk/basic_analysis/percentByLocation.csv
+END

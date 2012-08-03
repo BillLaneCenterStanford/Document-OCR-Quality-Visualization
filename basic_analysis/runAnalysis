@@ -1,0 +1,4 @@
+
+sqlite3 newspaper.db < analysis_percent_year.sql > percentByYear.csv
+sqlite3 newspaper.db < analysis_percent_location.sql > percentByLocation.csv
+sqlite3 newspaper.db < analysis_percent_pub.sql > percentByPub.csv

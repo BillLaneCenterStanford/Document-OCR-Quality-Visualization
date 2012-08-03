@@ -1,0 +1,31 @@
+
+.timeline-default {
+    font-family: Trebuchet MS, Helvetica, Arial, sans serif;
+    font-size: 8pt;
+    border: 1px solid #aaa;
+}
+
+.tape-special_event, .small-special_event { background-color: orange; }
+
+        .dark-theme { color: #422800; }
+        .dark-theme .timeline-band-0 .timeline-ether-bg { background-color: #613000 }
+        .dark-theme .timeline-band-1 .timeline-ether-bg { background-color: #c8b493 }
+        .dark-theme .timeline-band-2 .timeline-ether-bg { background-color: #c8b493 }
+        .dark-theme .timeline-band-3 .timeline-ether-bg { background-color: #444 }
+ 
+        .dark-theme .t-highlight1 { background-color: #003; }
+        .dark-theme .p-highlight1 { background-color: #300; }
+ 
+        .dark-theme .timeline-highlight-label-start .label_t-highlight1 { color: #f00; }
+        .dark-theme .timeline-highlight-label-end .label_t-highlight1 { color: #115; }
+ 
+        .dark-theme .timeline-band-events .important { color: #c00; }
+        .dark-theme .timeline-band-events .small-important { background: #c00; }
+ 
+        .dark-theme .timeline-date-label-em { color: #fff; }
+        .dark-theme .timeline-ether-lines { border-color: #555; border-style: solid; }
+        .dark-theme .timeline-ether-highlight { background: #555; }
+ 
+        .dark-theme .timeline-event-tape,
+        .dark-theme .timeline-small-event-tape { background: #f60; }
+        .dark-theme .timeline-ether-weekends { background: #111; }

@@ -1,0 +1,149 @@
+<html>
+  <head>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+  <link href="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css" /> 
+  <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+  <script type="text/javascript">
+  function onClick() {
+      $('#t').hide('slow', function() {
+          $('#t').html(Math.random());
+      });
+      $('#t').show('slow');
+  }
+
+  function initialize() {
+      url = '';
+      var canvas = document.createElement('canvas');
+      if (canvas.getContext) {
+          var d = Math.floor(Math.random() * 90);
+          ds = d - 5;
+          canvas.width = d;
+          canvas.height = d;
+
+          var ctx = canvas.getContext('2d');
+          ctx.globalAlpha = 0.5;
+          ctx.fillStyle = "#ffcc55";
+          ctx.arc(d/2, d/2, ds/2, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.strokeStyle="#ff0000";
+          ctx.lineWidth = 3;
+          ctx.arc(d/2, d/2, ds/2, 0, Math.PI * 2);
+          ctx.stroke();
+
+          ctx.strokeStyle = '#000000';
+          ctx.lineWidth = 1;
+          ctx.strokeText(d, d/2 - 4, d/2 + 4);
+
+          uri = canvas.toDataURL();
+      }
+
+      var myMapTypeId = "Simplified";
+      var myMapTypeStyle = [
+          {
+              featureType: "landscape",
+              elementType: "geometry",
+              stylers: [
+                  {
+                      hue: '#000099',
+                      saturation: 100,
+                  },
+              ],
+          },
+          {
+              featureType: "administrative",
+              elementType: "all",
+              stylers: [
+                  {
+                      visibility: "off",
+                  },
+              ],
+          },
+      ];
+
+      var myOptions = {
+          zoom: 4,
+          center: new google.maps.LatLng(-33, 151),
+          mapTypeControlOptions: {
+              mapTypeIds: [google.maps.MapTypeId.TERRAIN,
+                           google.maps.MapTypeId.ROADMAP,
+                           google.maps.MapTypeId.SATELLITE,
+                           myMapTypeId],
+          },
+          mapTypeId: google.maps.MapTypeId.TERRAIN,
+      };
+      var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+      map.mapTypes.set(myMapTypeId, new google.maps.StyledMapType(
+          myMapTypeStyle, {name: "SIMPLIFIED"}));
+      map.setMapTypeId('Simplified');
+
+      var image = uri;
+      var myLatLng = new google.maps.LatLng(-33.890542, 151.274856);
+      var beachMarker = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          icon: image
+      });
+
+      google.maps.event.addListener(beachMarker, 'mouseover', function() {
+          $("#mousepos").html("mouseover");
+      });
+      google.maps.event.addListener(beachMarker, 'mouseout', function() {
+          $("#mousepos").html("mouseout");
+      });
+
+      drawProgress();
+  }
+
+  var angle = 0;
+  function drawProgress() {
+      drawFrame();
+      setInterval(drawFrame, 80);
+  }
+  function drawFrame() {
+      var canvas = document.getElementById('progress_canvas');
+      if (canvas.getContext) {
+          var ctx = canvas.getContext('2d');
+          ctx.strokeStyle = '#ff0000';
+
+          ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+          var c = 100;
+          var d = 50;
+          var rmin = 20;
+          var rmax = 50;
+          var nsteps = 6;
+          var t = Math.PI / nsteps * angle;
+          angle = (angle + 1) % (8 * nsteps);
+          for (var i = 0; i < 9; i++) {
+              var ang = t - i * Math.PI / nsteps;
+              var cosang = Math.cos(ang);
+              var sinang = Math.sin(ang);
+              ctx.beginPath();
+              ctx.moveTo(c + rmin * cosang, c + rmin * sinang);
+              ctx.lineTo(c + rmax * cosang, c + rmax * sinang);
+              ctx.stroke();
+          }
+      }
+  }
+
+  </script>
+  </head>
+
+  <body onload="initialize();">
+    <!--
+    <div id="d" onclick="onClick();">
+    Where is the
+    content?
+    <p id='t' style='display: none'></p>
+    </div>
+    -->
+    <div id="mousepos"></div>
+    <div id="progress">
+        <canvas id="progress_canvas" width="400px" height="300px"></canvas>
+    </div>
+    <div>
+        <img src="ajax-loader.gif" />
+    </div>
+    <div id="map_canvas"></div>
+  </body>
+</html>

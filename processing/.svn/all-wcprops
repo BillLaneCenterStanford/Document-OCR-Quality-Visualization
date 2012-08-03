@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/18/trunk/processing
+END
+step1.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/processing/step1.py
+END
+step2.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/processing/step2.py
+END
+after_step1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/processing/after_step1.dat
+END
+step3.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/processing/step3.py
+END
+geocoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/processing/geocoding.py
+END
+location.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/processing/location.txt
+END
+contour2polygon.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/processing/contour2polygon.py
+END
+newspaper_count.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/processing/newspaper_count.txt
+END
+texas_contour.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18/trunk/processing/texas_contour.txt
+END
+raw_location.csv
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/processing/raw_location.csv
+END
+pub_year_count.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/processing/pub_year_count.txt
+END
+new_counts_0.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/processing/new_counts_0.csv
+END
+city_year_count.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/processing/city_year_count.txt
+END
+new_counts_1.csv
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/processing/new_counts_1.csv
+END

@@ -1,0 +1,85 @@
+<html>
+
+<head>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+<script type="text/javascript">
+
+var state = {
+    x: 0,
+    y: 0,
+    z: 0,
+};
+
+function initialize() {
+    URLToState();
+    drawByState();
+}
+
+function onClickDisp() {
+    for (var k in state) {
+        state[k] = Math.round(100 * Math.random());
+    }
+    drawByState();
+    stateToURL();
+}
+
+function drawByState() {
+    $("#disp").hide('slow', function () {
+        var s = "";
+        for (var k in state) {
+            s += k + ":" + state[k] + ", ";
+        }
+        $("#state").html(s);
+    });
+    $("#disp").show('slow');
+}
+
+function URLToState() {
+    var hash = window.location.hash;
+    for (var k in state) {
+        state[k] = parseInt(decodeValueFromURL(hash, k));
+        state[k] = isNaN(state[k]) ? 0 : state[k];
+    }
+}
+
+function decodeValueFromURL(hash, key) {
+    var valueLocation = hash.indexOf(key + "=") + key.length + 1;
+    var value = hash.substring(valueLocation);
+    return value;
+}
+
+function stateToURL() {
+    var hash = "";
+    for (var k in state) {
+        hash += encodeValueToURL(hash, k);
+    }
+    window.location.hash = "#!" + hash;
+}
+
+function encodeValueToURL(hash, key) {
+    var s = "";
+    if (hash.length > 0) {
+        s = "&";
+    }
+    s += key + "=" + state[key];
+    return s;
+}
+
+</script>
+</head>
+
+<body onload="initialize();">
+    <div style="width:600px">
+        <h3>Generate URL according to the internal state of a visualization</h3>
+        The url generated can be pasted into a new tab and you can observe the variable state.x initialized according to the value in the url.
+    </div>
+    <br/>
+    <div>
+        <button onclick="onClickDisp();">Increase state variable</button>
+        <p id="disp">
+            <span id="state"></span>
+        </p>
+    </div>
+</body>
+
+</html>

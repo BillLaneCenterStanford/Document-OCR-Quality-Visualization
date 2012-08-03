@@ -1,0 +1,874 @@
+American Flag<>Brownsville<>Texas<>1852<>13636<>28130
+American Flag<>Brownsville<>Texas<>1855<>2979<>7596
+American Flag<>Brownsville<>Texas<>1859<>481<>1754
+Brazos Courier<>Brazoria<>Texas<>1839<>5102<>16385
+Brazos Courier<>Brazoria<>Texas<>1840<>160873<>500882
+Breckenridge American<>Breckenridge<>Texas<>1922<>843309<>1611720
+Breckenridge American<>Breckenridge<>Texas<>1923<>919769<>1856534
+Breckenridge American<>Breckenridge<>Texas<>1925<>911515<>1779735
+Breckenridge American<>Breckenridge<>Texas<>1926<>1347409<>2562296
+Breckenridge American<>Breckenridge<>Texas<>1927<>1346681<>3073576
+Breckenridge American<>Breckenridge<>Texas<>1928<>4009608<>8840376
+Breckenridge American<>Breckenridge<>Texas<>1929<>3588784<>8291606
+Breckenridge American<>Breckenridge<>Texas<>1930<>3107674<>7238195
+Breckenridge American<>Breckenridge<>Texas<>1931<>1560457<>3330093
+Breckenridge American<>Breckenridge<>Texas<>1932<>1602550<>3341412
+Breckenridge American<>Breckenridge<>Texas<>1933<>3053944<>6350492
+Breckenridge American<>Breckenridge<>Texas<>1934<>3294421<>6761407
+Breckenridge American<>Breckenridge<>Texas<>1935<>3573397<>7129876
+Breckenridge American<>Breckenridge<>Texas<>1936<>3278023<>6885333
+Breckenridge American<>Breckenridge<>Texas<>1937<>2882528<>6138904
+Breckenridge American<>Breckenridge<>Texas<>1938<>2719219<>5546713
+Breckenridge American<>Breckenridge<>Texas<>1939<>2085739<>4007415
+Breckenridge American<>Breckenridge<>Texas<>1940<>612511<>1176987
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1926<>579025<>1128346
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1927<>663070<>1385436
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1928<>366863<>1014855
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1929<>7787<>16002
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1931<>397309<>881373
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1932<>48122<>91095
+Breckenridge Weekly Democrat<>Breckenridge<>Texas<>1933<>61499<>111660
+Colorado Gazette and Advertiser<>Matagorda<>Texas<>1839<>8070<>29406
+Colorado Gazette and Advertiser<>Matagorda<>Texas<>1841<>2589<>5750
+Colorado Gazette and Advertiser<>Matagorda<>Texas<>1842<>10808<>33637
+Colorado Tribune<>Matagorda<>Texas<>1844<>2393<>9397
+Colorado Tribune<>Matagorda<>Texas<>1848<>9444<>37493
+Colorado Tribune<>Matagorda<>Texas<>1849<>3445<>18153
+Colorado Tribune<>Matagorda<>Texas<>1851<>35905<>130107
+Columbia Democrat<><><>1855<>117939<>220265
+Columbia Democrat<>Columbia<>Texas<>1853<>94910<>188112
+Columbia Democrat<>Columbia<>Texas<>1854<>37610<>78606
+Daily Bulletin<>Austin<>Texas<>1841<>26669<>155491
+Daily Bulletin<>Austin<>Texas<>1842<>14117<>68648
+Daily Texian<>Austin<>Texas<>1841<>1973<>8220
+Daily Texian<>Austin<>Texas<>1842<>1875<>8353
+De Cordova's Herald and Immigrant's Guide<>Houston<>Texas<>1849<>3543<>16461
+Democrat and Planter<><><>1855<>37552<>95547
+Democrat and Planter<><><>1856<>107911<>250368
+Democrat and Planter<><><>1861<>10628<>24372
+Democrat and Planter<>Columbia<>Texas<>1857<>68625<>162024
+Democrat and Planter<>Columbia<>Texas<>1858<>7803<>27073
+Democrat and Planter<>Columbia<>Texas<>1859<>11866<>27744
+Democrat and Planter<>Columbia<>Texas<>1860<>20643<>53944
+Democratic telegraph and Texas register<>Houston<>Texas<>1846<>80336<>222168
+Democratic telegraph and Texas register<>Houston<>Texas<>1847<>161401<>608278
+Democratic telegraph and Texas register<>Houston<>Texas<>1848<>499514<>1621039
+Democratic telegraph and Texas register<>Houston<>Texas<>1849<>460299<>1709123
+Democratic telegraph and Texas register<>Houston<>Texas<>1850<>435486<>1467979
+Democratic telegraph and Texas register<>Houston<>Texas<>1851<>113788<>379376
+Democratic telegraph and Texas register <>Houston<>Texas<>1846<>289300<>862833
+Democratic telegraph and Texas register <>Houston<>Texas<>1847<>299294<>1075902
+Democratic telegraph and Texas register <>Houston<>Texas<>1848<>11588<>37472
+El Centinela<>Brownsville<>Texas<>1849<>3881<>6119
+Fort Worth Daily Gazette<><><>1894<>1296784<>2804309
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1883<>867831<>2153532
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1884<>4485118<>12786580
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1885<>4212818<>11721201
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1886<>4546997<>14600893
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1887<>3194831<>16000542
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1888<>2924502<>12011659
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1889<>1221201<>6978686
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1890<>3167896<>16394209
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1893<>4304271<>9371501
+Fort Worth Daily Gazette<>Fort Worth<>Texas<>1894<>770468<>1758920
+Fort Worth Gazette<><><>1894<>149280<>453447
+Fort Worth Gazette<>Fort Worth<>Texas<>1891<>2504321<>13168861
+Fort Worth Gazette<>Fort Worth<>Texas<>1892<>669124<>3975399
+Fort Worth Gazette<>Fort Worth<>Texas<>1893<>1779736<>3454699
+Fort Worth Gazette<>Fort Worth<>Texas<>1894<>464680<>1623982
+Fort Worth Weekly Gazette<>Fort Worth<>Texas<>1886<>25068<>79573
+Fort Worth Weekly Gazette<>Fort Worth<>Texas<>1887<>539221<>2937817
+Fort Worth Weekly Gazette<>Fort Worth<>Texas<>1888<>512313<>2278410
+Fort Worth Weekly Gazette<>Fort Worth<>Texas<>1889<>89374<>515019
+Fort Worth Weekly Gazette<>Fort Worth<>Texas<>1890<>374922<>2197842
+Galveston Weekly News<>Galveston<>Texas<>1845<>7257<>32025
+Galveston Weekly News<>Galveston<>Texas<>1848<>18338<>58609
+Galveston Weekly News<>Galveston<>Texas<>1849<>15529<>33014
+Galveston Weekly News<>Galveston<>Texas<>1851<>238918<>638852
+Galveston Weekly News<>Galveston<>Texas<>1852<>37353<>88781
+Galveston Weekly News<>Galveston<>Texas<>1853<>147133<>333134
+Galveston Weekly News<>Galveston<>Texas<>1854<>347071<>879252
+Galveston Weekly News<>Galveston<>Texas<>1855<>508374<>1432482
+Galveston Weekly News<>Galveston<>Texas<>1856<>761828<>2283201
+Galveston Weekly News<>Galveston<>Texas<>1857<>149534<>493887
+Galveston Weekly News<>Galveston<>Texas<>1858<>310541<>872992
+Galveston Weekly News<>Galveston<>Texas<>1859<>200365<>502622
+Galveston Weekly News<>Galveston<>Texas<>1860<>230389<>671608
+Galveston Weekly News<>Galveston<>Texas<>1861<>393688<>1082506
+Intelligencer-Echo<><><>1874<>76894<>283798
+Intelligencer-Echo<><><>1875<>141361<>430549
+James Martin's Comic Advertiser<>Austin<>Texas<>1874<>3807<>16384
+James Martin's Comic Advertiser<>Austin<>Texas<>1876<>1242<>6086
+Jefferson Jimplecute<>Jefferson<>Texas<>1889<>10768<>58846
+Jefferson Jimplecute<>Jefferson<>Texas<>1890<>9742<>60017
+Jefferson Jimplecute<>Jefferson<>Texas<>1895<>3079<>19485
+Jefferson Jimplecute<>Jefferson<>Texas<>1896<>2309<>13472
+Jefferson Jimplecute<>Jefferson<>Texas<>1907<>128413<>1053888
+Jefferson Jimplecute<>Jefferson<>Texas<>1908<>100588<>715773
+Jefferson Jimplecute<>Jefferson<>Texas<>1909<>48968<>315552
+Jefferson Jimplecute<>Jefferson<>Texas<>1910<>23705<>133252
+Jefferson Jimplecute<>Jefferson<>Texas<>1911<>71485<>505990
+Journal and Advertiser<><><>1840<>16452<>25760
+La Grange intelligencer<><><>1844<>2588<>8486
+La Grange new era<><><>1871<>12635<>26319
+Lavaca herald<>Port Lavaca<>Texas<>1856<>13054<>45196
+Lavaca herald<>Port Lavaca<>Texas<>1857<>22368<>66735
+Lavaca journal<>Lavaca<>Texas<>1848<>6296<>22790
+Matagorda Bulletin<><><>1837<>56586<>222704
+Matagorda Bulletin<><><>1838<>48769<>213782
+Matagorda Bulletin<><><>1839<>3664<>15330
+McMurry War Whoop<>Abilene<>Texas<>1927<>185542<>417761
+McMurry War Whoop<>Abilene<>Texas<>1928<>253758<>542485
+McMurry War Whoop<>Abilene<>Texas<>1929<>230490<>520663
+McMurry War Whoop<>Abilene<>Texas<>1930<>258232<>581267
+McMurry War Whoop<>Abilene<>Texas<>1931<>240936<>547573
+McMurry War Whoop<>Abilene<>Texas<>1932<>171770<>389241
+McMurry War Whoop<>Abilene<>Texas<>1933<>171922<>473183
+McMurry War Whoop<>Abilene<>Texas<>1934<>155499<>485182
+McMurry War Whoop<>Abilene<>Texas<>1935<>144843<>426576
+McMurry War Whoop<>Abilene<>Texas<>1936<>157159<>425118
+McMurry War Whoop<>Abilene<>Texas<>1937<>153605<>373743
+McMurry War Whoop<>Abilene<>Texas<>1938<>195252<>426847
+McMurry War Whoop<>Abilene<>Texas<>1939<>131430<>390249
+McMurry War Whoop<>Abilene<>Texas<>1940<>94764<>365409
+McMurry War Whoop<>Abilene<>Texas<>1941<>128706<>384732
+McMurry War Whoop<>Abilene<>Texas<>1942<>150032<>347642
+McMurry War Whoop<>Abilene<>Texas<>1943<>89322<>276595
+McMurry War Whoop<>Abilene<>Texas<>1944<>60992<>211491
+McMurry War Whoop<>Abilene<>Texas<>1945<>61234<>218789
+McMurry War Whoop<>Abilene<>Texas<>1946<>63312<>202157
+McMurry War Whoop<>Abilene<>Texas<>1947<>86893<>239379
+McMurry War Whoop<>Abilene<>Texas<>1948<>99502<>341872
+McMurry War Whoop<>Abilene<>Texas<>1949<>70861<>325178
+McMurry War Whoop<>Abilene<>Texas<>1950<>7461<>44277
+National Intelligencer<>Houston<>Texas<>1839<>10549<>23395
+Palestine Daily Herald<>Palestine<>Texas<>1903<>126123<>840352
+Palestine Daily Herald<>Palestine<>Texas<>1904<>649268<>4110988
+Palestine Daily Herald<>Palestine<>Texas<>1905<>673898<>3941626
+Palestine Daily Herald<>Palestine<>Texas<>1906<>716005<>4981539
+Palestine Daily Herald<>Palestine<>Texas<>1907<>450490<>3610456
+Palestine Daily Herald<>Palestine<>Texas<>1908<>545201<>4142262
+Palestine Daily Herald<>Palestine<>Texas<>1909<>598073<>4365873
+Palestine Daily Herald<>Palestine<>Texas<>1910<>635431<>4700227
+Point-Blank<>Austin<>Texas<>1869<>781<>4842
+Richmond Telescope &amp; Register<><><>1840<>2911<>14254
+San Luis Advocate<>San Luis<>Texas<>1840<>95079<>349524
+San Luis Advocate<>San Luis<>Texas<>1841<>81815<>296284
+Slovan<><><>1880<>17566<>25772
+South and West<>Austin<>Texas<>1865<>11133<>34482
+South-Western American<><><>1849<>1599<>8739
+South-Western American<><><>1852<>50535<>145067
+South-Western American<><><>1853<>245730<>587481
+South-Western American<>Austin<>Texas<>1850<>15923<>37348
+South-Western American<>Austin<>Texas<>1851<>138460<>388580
+South-Western American<>Austin<>Texas<>1852<>151493<>620872
+State Gazette<>Austin<>Texas<>1855<>264713<>854097
+State Gazette<>Austin<>Texas<>1856<>717370<>2592480
+State Gazette<>Austin<>Texas<>1857<>629345<>1970950
+State Gazette<>Austin<>Texas<>1858<>898383<>2119900
+State Gazette<>Austin<>Texas<>1859<>880276<>2131783
+State Gazette<>Austin<>Texas<>1860<>901135<>2330875
+Stephens County Sun<>Breckenridge<>Texas<>1933<>445613<>976457
+Stephens County Sun<>Breckenridge<>Texas<>1934<>759796<>1523256
+Stephens County Sun<>Breckenridge<>Texas<>1935<>849398<>1647356
+Stephens County Sun<>Breckenridge<>Texas<>1936<>866544<>1749514
+Stephens County Sun<>Breckenridge<>Texas<>1937<>898516<>1829000
+Stephens County Sun<>Breckenridge<>Texas<>1938<>718683<>1431592
+Stephens County Sun<>Breckenridge<>Texas<>1939<>558485<>1058869
+Stephens County Sun<>Breckenridge<>Texas<>1940<>147138<>272986
+Telegraph and Texas Register<>Columbia<>Texas<>1836<>95812<>442925
+Telegraph and Texas Register<>Columbia<>Texas<>1837<>63753<>277146
+Telegraph and Texas Register<>Houston<>Texas<>1837<>192791<>744750
+Telegraph and Texas Register<>Houston<>Texas<>1838<>666721<>1790813
+Telegraph and Texas Register<>Houston<>Texas<>1839<>614884<>1691593
+Telegraph and Texas Register<>Houston<>Texas<>1840<>400178<>932298
+Telegraph and Texas Register<>Houston<>Texas<>1841<>511492<>1613373
+Telegraph and Texas Register<>Houston<>Texas<>1842<>505957<>1670375
+Telegraph and Texas Register<>Houston<>Texas<>1843<>528231<>1679436
+Telegraph and Texas Register<>Houston<>Texas<>1844<>367706<>1407428
+Telegraph and Texas Register<>Houston<>Texas<>1845<>380616<>1489213
+Telegraph and Texas Register<>Houston<>Texas<>1846<>96120<>241694
+Telegraph and Texas Register<>San Felipe de Austin<>Texas<>1835<>30226<>122894
+Telegraph and Texas Register<>San Felipe de Austin<>Texas<>1836<>24150<>90279
+Telegraph and Texas Register <>Houston<>Texas<>1844<>12544<>59686
+Temperance Banner<>Austin<>Texas<>1872<>5038<>17322
+Texas Almanac Extra<><><>1862<>24525<>97576
+Texas Almanac Extra<>Austin<>Texas<>1862<>24376<>73383
+Texas Almanac Extra<>Austin<>Texas<>1863<>163362<>431902
+Texas Chronicle<>Nacogdoches<>Texas<>1838<>8166<>17978
+Texas Gazette and Brazoria Commercial Advertiser<><><>1832<>1768<>6908
+Texas National Register<>Washington<>Texas<>1844<>26036<>109114
+Texas National Register<>Washington<>Texas<>1845<>292268<>1275348
+Texas National Register<>Washington<>Texas<>1846<>13553<>40543
+Texas Planter<>Brazoria<>Texas<>1852<>7578<>24869
+Texas Planter<>Brazoria<>Texas<>1853<>16983<>61333
+Texas Planter<>Brazoria<>Texas<>1854<>102715<>338172
+Texas Planter<>Brazoria<>Texas<>1855<>29834<>109326
+Texas Presbyterian<>Houston<>Texas<>1847<>144097<>557315
+Texas Presbyterian<>Houston<>Texas<>1848<>49901<>197662
+Texas Presbyterian<>Victoria<>Texas<>1846<>6829<>24392
+Texas Presbyterian<>Victoria<>Texas<>1847<>43827<>207728
+Texas Real Estate Guide<>Austin<>Texas<>1871<>3813<>13885
+Texas Sentinel<>Austin<>Texas<>1840<>21843<>77887
+Texas Sentinel<>Austin<>Texas<>1841<>13731<>65049
+Texas State Gazette<>Austin<>Texas<>1849<>172321<>618920
+Texas State Gazette<>Austin<>Texas<>1850<>454627<>1655224
+Texas State Gazette<>Austin<>Texas<>1851<>499206<>1613707
+Texas State Gazette<>Austin<>Texas<>1852<>609850<>1744982
+Texas State Gazette<>Austin<>Texas<>1853<>728020<>2008721
+Texas State Gazette<>Austin<>Texas<>1854<>688797<>2183981
+Texas State Gazette<>Austin<>Texas<>1855<>435658<>1375522
+Texian and Brazos Farmer<>Washington<>Texas<>1843<>2989<>14048
+The Advocate of the People's Rights<>Brazoria<>Texas<>1834<>4182<>17054
+The American Flag<>Matamoros<>Mexico<>1847<>6992<>28232
+The Austin City Gazette<>Austin<>Texas<>1840<>3466<>16531
+The Austin Daily Dispatch<>Austin<>Texas<>1883<>37113<>83864
+The Austin Daily Dispatch<>Austin<>Texas<>1884<>8292<>19679
+The Austin Evening News<>Austin<>Texas<>1875<>61517<>198290
+The Austin Evening News<>Austin<>Texas<>1876<>2554<>10014
+The Bartlett Tribune and News<><><>1937<>11207<>42015
+The Bartlett Tribune and News<>Bartlett<>Texas<>1914<>204809<>863247
+The Bartlett Tribune and News<>Bartlett<>Texas<>1915<>209723<>894303
+The Bartlett Tribune and News<>Bartlett<>Texas<>1916<>226062<>881968
+The Bartlett Tribune and News<>Bartlett<>Texas<>1917<>215675<>892805
+The Bartlett Tribune and News<>Bartlett<>Texas<>1918<>234487<>951630
+The Bartlett Tribune and News<>Bartlett<>Texas<>1919<>311418<>967847
+The Bartlett Tribune and News<>Bartlett<>Texas<>1920<>359774<>1057726
+The Bartlett Tribune and News<>Bartlett<>Texas<>1921<>204862<>873052
+The Bartlett Tribune and News<>Bartlett<>Texas<>1922<>206421<>917113
+The Bartlett Tribune and News<>Bartlett<>Texas<>1923<>210063<>934312
+The Bartlett Tribune and News<>Bartlett<>Texas<>1924<>317321<>1354971
+The Bartlett Tribune and News<>Bartlett<>Texas<>1925<>248054<>989544
+The Bartlett Tribune and News<>Bartlett<>Texas<>1926<>233753<>1000462
+The Bartlett Tribune and News<>Bartlett<>Texas<>1927<>245364<>1060379
+The Bartlett Tribune and News<>Bartlett<>Texas<>1928<>231181<>990077
+The Bartlett Tribune and News<>Bartlett<>Texas<>1933<>139593<>635445
+The Bartlett Tribune and News<>Bartlett<>Texas<>1934<>132053<>551831
+The Bartlett Tribune and News<>Bartlett<>Texas<>1935<>149540<>585650
+The Bartlett Tribune and News<>Bartlett<>Texas<>1936<>177674<>736778
+The Bartlett Tribune and News<>Bartlett<>Texas<>1937<>205889<>784812
+The Bartlett Tribune and News<>Bartlett<>Texas<>1938<>206191<>771558
+The Bartlett Tribune and News<>Bartlett<>Texas<>1939<>205188<>813477
+The Bartlett Tribune and News<>Bartlett<>Texas<>1940<>213244<>866969
+The Bartlett Tribune and News<>Bartlett<>Texas<>1941<>230167<>722838
+The Bartlett Tribune and News<>Bartlett<>Texas<>1942<>211355<>624811
+The Bartlett Tribune and News<>Bartlett<>Texas<>1943<>232277<>968686
+The Bartlett Tribune and News<>Bartlett<>Texas<>1944<>270321<>1090969
+The Bartlett Tribune and News<>Bartlett<>Texas<>1945<>260701<>1031201
+The Bartlett Tribune and News<>Bartlett<>Texas<>1946<>194832<>746212
+The Bartlett Tribune and News<>Bartlett<>Texas<>1947<>235609<>950624
+The Bartlett Tribune and News<>Bartlett<>Texas<>1948<>206561<>794743
+The Bartlett Tribune and News<>Bartlett<>Texas<>1949<>252007<>834602
+The Bartlett Tribune and News<>Bartlett<>Texas<>1950<>225704<>804728
+The Bartlett Tribune and News<>Bartlett<>Texas<>1951<>199310<>831880
+The Bartlett Tribune and News<>Bartlett<>Texas<>1952<>170992<>742367
+The Bartlett Tribune and News<>Bartlett<>Texas<>1953<>186675<>764950
+The Bartlett Tribune and News<>Bartlett<>Texas<>1954<>188941<>780008
+The Bartlett Tribune and News<>Bartlett<>Texas<>1955<>215714<>724245
+The Bartlett Tribune and News<>Bartlett<>Texas<>1956<>231077<>735618
+The Bartlett Tribune and News<>Bartlett<>Texas<>1957<>194737<>751694
+The Bartlett Tribune and News<>Bartlett<>Texas<>1958<>179810<>736081
+The Bartlett Tribune and News<>Bartlett<>Texas<>1959<>163444<>680670
+The Bartlett Tribune and News<>Bartlett<>Texas<>1960<>162160<>654473
+The Bartlett Tribune and News<>Bartlett<>Texas<>1961<>165602<>692012
+The Bartlett Tribune and News<>Bartlett<>Texas<>1962<>150803<>643869
+The Bartlett Tribune and News<>Bartlett<>Texas<>1963<>159264<>679052
+The Bartlett Tribune and News<>Bartlett<>Texas<>1964<>170380<>720589
+The Bartlett Tribune and News<>Bartlett<>Texas<>1965<>174768<>755166
+The Bartlett Tribune and News<>Bartlett<>Texas<>1966<>163713<>719523
+The Bartlett Tribune and News<>Bartlett<>Texas<>1967<>159321<>665809
+The Bartlett Tribune and News<>Bartlett<>Texas<>1968<>176689<>735710
+The Bartlett Tribune and News<>Bartlett<>Texas<>1969<>165961<>714110
+The Bartlett Tribune and News<>Bartlett<>Texas<>1970<>181033<>747899
+The Bartlett Tribune and News<>Bartlett<>Texas<>1971<>188199<>767324
+The Bartlett Tribune and News<>Bartlett<>Texas<>1972<>185062<>764582
+The Bartlett Tribune and News<>Bartlett<>Texas<>1973<>186498<>761673
+The Bartlett Tribune and News<>Bartlett<>Texas<>1974<>176728<>694996
+The Bartlett Tribune and News<>Bartlett<>Texas<>1975<>176991<>710333
+The Bartlett Tribune and News<>Bartlett<>Texas<>1976<>181683<>702305
+The Bartlett Tribune and News<>Bartlett<>Texas<>1977<>187290<>643547
+The Bartlett tribune<>Bartlett<>Texas<>1902<>167444<>502857
+The Bartlett tribune<>Bartlett<>Texas<>1903<>298849<>901680
+The Bartlett tribune<>Bartlett<>Texas<>1904<>290911<>878374
+The Bartlett tribune<>Bartlett<>Texas<>1905<>55528<>168964
+The Bartlett tribune<>Bartlett<>Texas<>1906<>254420<>876438
+The Bartlett tribune<>Bartlett<>Texas<>1907<>258251<>912528
+The Brand<>Abilene<>Texas<>1934<>29011<>147556
+The Brand<>Abilene<>Texas<>1935<>87835<>459050
+The Brand<>Abilene<>Texas<>1936<>94489<>471077
+The Brand<>Abilene<>Texas<>1937<>84000<>414082
+The Brand<>Abilene<>Texas<>2005<>8155<>55194
+The Brand<>Abilene<>Texas<>2006<>14496<>98867
+The Brand<>Abilene<>Texas<>2007<>23079<>133012
+The Brand<>Abilene<>Texas<>2008<>11901<>67309
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1984<>12078<>64261
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1985<>19082<>109865
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1986<>14178<>84751
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1987<>10766<>66830
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1988<>11993<>73740
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1989<>8494<>56306
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1990<>12340<>77478
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1991<>14977<>97063
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1992<>27755<>148795
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1993<>38056<>199464
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1994<>26687<>138500
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1995<>39470<>212645
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1996<>50142<>282321
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1997<>23323<>122648
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1998<>15570<>89835
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>1999<>19793<>128174
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>2000<>26481<>163397
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>2001<>20089<>125507
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>2002<>13842<>93073
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>2003<>29383<>185556
+The Brand of Hardin-Simmons University<>Abilene<>Texas<>2004<>24594<>168870
+The Canadian advertiser<>Canadian<>Texas<>1938<>6053<>21925
+The Canadian advertiser<>Canadian<>Texas<>1939<>4205<>25039
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1844<>14013<>40863
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1845<>16272<>28582
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1846<>19622<>41507
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1847<>120556<>279827
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1848<>112928<>281031
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1849<>19110<>52071
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1851<>205229<>462920
+The Civilian and Galveston Gazette<>Galveston<>Texas<>1852<>22589<>44431
+The Collegian<>Brownwood<>Texas<>1923<>16708<>67492
+The Collegian<>Brownwood<>Texas<>1924<>51783<>199326
+The Collegian<>Brownwood<>Texas<>1925<>29995<>98523
+The Collegian<>Brownwood<>Texas<>1929<>14939<>86515
+The Collegian<>Brownwood<>Texas<>1930<>16272<>76069
+The Collegian<>Brownwood<>Texas<>1932<>18075<>86329
+The Collegian<>Brownwood<>Texas<>1933<>33689<>160189
+The Collegian<>Brownwood<>Texas<>1934<>50370<>239581
+The Collegian<>Brownwood<>Texas<>1935<>59136<>316033
+The Collegian<>Brownwood<>Texas<>1936<>67618<>353816
+The Collegian<>Brownwood<>Texas<>1937<>72102<>403076
+The Collegian<>Brownwood<>Texas<>1938<>48199<>279839
+The Collegian<>Brownwood<>Texas<>1939<>54834<>286258
+The Collegian<>Brownwood<>Texas<>1940<>55281<>311094
+The Collegian<>Brownwood<>Texas<>1941<>55821<>257958
+The Collegian<>Brownwood<>Texas<>1942<>26776<>131950
+The Collegian<>Brownwood<>Texas<>1947<>31171<>162724
+The Collegian<>Brownwood<>Texas<>1948<>57783<>287500
+The Collegian<>Brownwood<>Texas<>1949<>13654<>69051
+The Collegian<>Brownwood<>Texas<>1950<>7522<>40479
+The Collegian<>Brownwood<>Texas<>1951<>8323<>54070
+The Collegian<>Brownwood<>Texas<>1952<>11610<>68226
+The Colorado Herald<>Matagorda<>Texas<>1847<>11922<>41701
+The Corpus Christi Star<>Corpus Christi<>Texas<>1848<>98873<>261829
+The Corpus Christi Star<>Corpus Christi<>Texas<>1849<>183736<>553475
+The Daily Dispatch<>Austin<>Texas<>1880<>9158<>19999
+The Daily Dispatch<>Austin<>Texas<>1881<>6051<>16117
+The Daily Herald<>Brownsville<>Texas<>1895<>397794<>1492875
+The Daily Herald.<>Brownsville<>Texas<>1892<>293957<>1015743
+The Daily Herald.<>Brownsville<>Texas<>1893<>474906<>1754347
+The Daily Herald.<>Brownsville<>Texas<>1894<>993768<>3508714
+The Daily Herald.<>Brownsville<>Texas<>1895<>607848<>2315399
+The Daily Herald.<>Brownsville<>Texas<>1896<>939013<>4005355
+The Daily Ledger and Texan<>San Antonio<>Texas<>1859<>29702<>80586
+The Daily Ledger and Texan<>San Antonio<>Texas<>1860<>951054<>2335448
+The Daily Ledger and Texan<>San Antonio<>Texas<>1861<>511181<>1383527
+The Daily State Gazette and General Advertiser<>Austin<>Texas<>1859<>7806<>31308
+The Democratic Platform<><><>1859<>29816<>101858
+The Dynamo<>Breckenridge<>Texas<>1932<>29298<>58228
+The Dynamo<>Breckenridge<>Texas<>1933<>94073<>178750
+The Dynamo<>Breckenridge<>Texas<>1934<>95154<>209833
+The Dynamo<>Breckenridge<>Texas<>1935<>98839<>206367
+The Dynamo<>Breckenridge<>Texas<>1936<>101549<>208147
+The Dynamo<>Breckenridge<>Texas<>1937<>97463<>216258
+The Dynamo<>Breckenridge<>Texas<>1938<>92122<>191081
+The Dynamo<>Breckenridge<>Texas<>1939<>50410<>99693
+The Fayette County record<>La Grange<>Texas<>1874<>12367<>28811
+The Fayette County record<>La Grange<>Texas<>1876<>14904<>29718
+The Fayette County record <>La Grange<>Texas<>1873<>10370<>22620
+The Free Man's Press<>Austin<>Texas<>1868<>4570<>13115
+The Galveston News<><><>1858<>8331<>17584
+The Galveston News<>Galveston<>Texas<>1848<>10199<>23487
+The Galveston News<>Galveston<>Texas<>1854<>33117<>105815
+The Galveston News<>Galveston<>Texas<>1855<>210923<>467434
+The Galveston News<>Galveston<>Texas<>1856<>94475<>212219
+The Galveston News<>Galveston<>Texas<>1857<>30273<>74888
+The Galveston News<>Galveston<>Texas<>1858<>17577<>41699
+The Galveston News<>Galveston<>Texas<>1859<>40498<>74143
+The Galveston News<>Galveston<>Texas<>1861<>110101<>258444
+The Galvestonian<>Galveston<>Texas<>1839<>3465<>9007
+The H-S U Brand<>Abilene<>Texas<>1937<>14001<>71461
+The H-S U Brand<>Abilene<>Texas<>1938<>103942<>501442
+The H-S U Brand<>Abilene<>Texas<>1939<>104344<>510227
+The H-S U Brand<>Abilene<>Texas<>1950<>85593<>444131
+The H-S U Brand<>Abilene<>Texas<>1951<>93659<>501476
+The H-S U Brand<>Abilene<>Texas<>1952<>96489<>529110
+The H-S U Brand<>Abilene<>Texas<>1953<>88410<>458530
+The H-S U Brand<>Abilene<>Texas<>1959<>68079<>375330
+The H-S U Brand<>Abilene<>Texas<>1968<>77767<>384506
+The H-S U Brand<>Abilene<>Texas<>1969<>81927<>388549
+The H-S U Brand<>Abilene<>Texas<>1973<>47714<>264337
+The H-S U Brand<>Abilene<>Texas<>1974<>42477<>237481
+The H-S U Brand<>Abilene<>Texas<>1975<>42866<>247486
+The H-S U Brand<>Abilene<>Texas<>1976<>36953<>203843
+The HSU Brand<>Abilene<>Texas<>1940<>95358<>473891
+The HSU Brand<>Abilene<>Texas<>1941<>96845<>458786
+The HSU Brand<>Abilene<>Texas<>1942<>75683<>361319
+The HSU Brand<>Abilene<>Texas<>1943<>34336<>181847
+The HSU Brand<>Abilene<>Texas<>1944<>45086<>248865
+The HSU Brand<>Abilene<>Texas<>1945<>31088<>162300
+The HSU Brand<>Abilene<>Texas<>1946<>46138<>247775
+The HSU Brand<>Abilene<>Texas<>1947<>64905<>362964
+The HSU Brand<>Abilene<>Texas<>1948<>77087<>421385
+The HSU Brand<>Abilene<>Texas<>1949<>81765<>442649
+The HSU Brand<>Abilene<>Texas<>1954<>47399<>247438
+The HSU Brand<>Abilene<>Texas<>1955<>33551<>181266
+The HSU Brand<>Abilene<>Texas<>1956<>74774<>371892
+The HSU Brand<>Abilene<>Texas<>1957<>62021<>323795
+The HSU Brand<>Abilene<>Texas<>1958<>63037<>329367
+The HSU Brand<>Abilene<>Texas<>1960<>79975<>375249
+The HSU Brand<>Abilene<>Texas<>1961<>85751<>413487
+The HSU Brand<>Abilene<>Texas<>1962<>82140<>399087
+The HSU Brand<>Abilene<>Texas<>1963<>86010<>388586
+The HSU Brand<>Abilene<>Texas<>1964<>70134<>341039
+The HSU Brand<>Abilene<>Texas<>1965<>59282<>301115
+The HSU Brand<>Abilene<>Texas<>1966<>67936<>326358
+The HSU Brand<>Abilene<>Texas<>1967<>67008<>333677
+The HSU Brand<>Abilene<>Texas<>1970<>72578<>351045
+The HSU Brand<>Abilene<>Texas<>1971<>72070<>357693
+The HSU Brand<>Abilene<>Texas<>1972<>61585<>328922
+The HSU Brand<>Abilene<>Texas<>1977<>34390<>206756
+The HSU Brand<>Abilene<>Texas<>1978<>34251<>192265
+The HSU Brand<>Abilene<>Texas<>1979<>65252<>337025
+The HSU Brand<>Abilene<>Texas<>1980<>51652<>284153
+The HSU Brand<>Abilene<>Texas<>1981<>24242<>141696
+The HSU Brand<>Abilene<>Texas<>1982<>21580<>128405
+The HSU Brand<>Abilene<>Texas<>1983<>18529<>96346
+The HSU Brand<>Abilene<>Texas<>1984<>4415<>24950
+The HSU Brand<>Abilene<>Texas<>2005<>9151<>66118
+The Hemphill County news<>Canadian<>Texas<>1939<>28597<>195515
+The Hemphill County news<>Canadian<>Texas<>1940<>44254<>285133
+The Hemphill County news<>Canadian<>Texas<>1941<>44781<>251556
+The Hemphill County news<>Canadian<>Texas<>1942<>46828<>241526
+The Hemphill County news<>Canadian<>Texas<>1943<>30748<>170806
+The Hemphill County news<>Canadian<>Texas<>1944<>27908<>189051
+The Hemphill County news<>Canadian<>Texas<>1945<>72479<>515957
+The Hemphill County news<>Canadian<>Texas<>1946<>152535<>1212490
+The Hemphill County news<>Canadian<>Texas<>1947<>140523<>1092546
+The Hemphill County news<>Canadian<>Texas<>1948<>127020<>949326
+The Hemphill County news<>Canadian<>Texas<>1949<>131906<>954395
+The Hemphill County news<>Canadian<>Texas<>1950<>136517<>900426
+The Hemphill County news<>Canadian<>Texas<>1951<>130680<>919570
+The Hemphill County news<>Canadian<>Texas<>1952<>122152<>699499
+The Hemphill County news<>Canadian<>Texas<>1953<>96759<>515227
+The Houston Daily Post<>Houston<>Texas<>1893<>803757<>2153574
+The Houston Daily Post<>Houston<>Texas<>1894<>2389653<>5732932
+The Houston Daily Post<>Houston<>Texas<>1895<>1069083<>2645272
+The Houston Daily Post<>Houston<>Texas<>1896<>11513768<>26387409
+The Houston Daily Post<>Houston<>Texas<>1897<>8589564<>23632976
+The Houston Daily Post<>Houston<>Texas<>1898<>5092164<>14776962
+The Houston Daily Post<>Houston<>Texas<>1899<>4599027<>16757050
+The Houston Daily Post<>Houston<>Texas<>1900<>4232241<>13926957
+The Houston Daily Post<>Houston<>Texas<>1901<>7248049<>23374582
+The Houston Daily Post<>Houston<>Texas<>1902<>8289862<>27308987
+The Houston Daily Post<>Houston<>Texas<>1903<>1508470<>4978082
+The Houstonian<><><>1841<>1004<>5221
+The Jewish Herald<>Houston<>Texas<>1908<>15366<>108908
+The Jewish Herald<>Houston<>Texas<>1909<>56917<>389779
+The Jewish Herald<>Houston<>Texas<>1910<>82915<>540944
+The Jewish Herald<>Houston<>Texas<>1911<>71639<>481200
+The Jimplecute<>Jefferson<>Texas<>1900<>3870<>20164
+The Jimplecute<>Jefferson<>Texas<>1901<>6926<>31750
+The Jimplecute<>Jefferson<>Texas<>1902<>4776<>20303
+The Jimplecute<>Jefferson<>Texas<>1904<>76131<>457169
+The Jimplecute<>Jefferson<>Texas<>1905<>158348<>967083
+The Jimplecute<>Jefferson<>Texas<>1906<>165372<>1066385
+The Jimplecute<>Jefferson<>Texas<>1907<>14512<>121809
+The McMurry Bulletin<>Abilene<>Texas<>1923<>10374<>21439
+The McMurry College War Whoop<>Abilene<>Texas<>1950<>18536<>92288
+The Morning Star<>Houston<>Texas<>1839<>2872<>13040
+The Morning Star<>Houston<>Texas<>1840<>43071<>181040
+The Musquito<>Houston<>Texas<>1841<>5474<>15782
+The National Vindicator<><><>1843<>18523<>62732
+The National Vindicator<><><>1844<>19174<>89446
+The Northern Standard<>Clarksville<>Texas<>1842<>92817<>428786
+The Northern Standard<>Clarksville<>Texas<>1843<>213384<>898999
+The Northern Standard<>Clarksville<>Texas<>1844<>110338<>453472
+The Northern Standard<>Clarksville<>Texas<>1845<>161085<>588200
+The Northern Standard<>Clarksville<>Texas<>1846<>372842<>1086567
+The Northern Standard<>Clarksville<>Texas<>1847<>524785<>1349512
+The Northern Standard<>Clarksville<>Texas<>1848<>491432<>1496865
+The Northern Standard<>Clarksville<>Texas<>1849<>377796<>1156506
+The Northern Standard<>Clarksville<>Texas<>1850<>559737<>1613363
+The Northern Standard<>Clarksville<>Texas<>1851<>531333<>1677982
+The Northern Standard<>Clarksville<>Texas<>1852<>275336<>895633
+The Optimist<>Abilene<>Texas<>1912<>1642<>8573
+The Optimist<>Abilene<>Texas<>1916<>3471<>17585
+The Optimist<>Abilene<>Texas<>1919<>16412<>60953
+The Optimist<>Abilene<>Texas<>1920<>49783<>232392
+The Optimist<>Abilene<>Texas<>1921<>59588<>277331
+The Optimist<>Abilene<>Texas<>1922<>61020<>297812
+The Optimist<>Abilene<>Texas<>1923<>95964<>400865
+The Optimist<>Abilene<>Texas<>1924<>97197<>419788
+The Optimist<>Abilene<>Texas<>1925<>78273<>386930
+The Optimist<>Abilene<>Texas<>1926<>103159<>451826
+The Optimist<>Abilene<>Texas<>1927<>114128<>441291
+The Optimist<>Abilene<>Texas<>1928<>123302<>517222
+The Optimist<>Abilene<>Texas<>1929<>122328<>534505
+The Optimist<>Abilene<>Texas<>1930<>119267<>497622
+The Optimist<>Abilene<>Texas<>1931<>116093<>506158
+The Optimist<>Abilene<>Texas<>1932<>67956<>279743
+The Optimist<>Abilene<>Texas<>1933<>57214<>231015
+The Optimist<>Abilene<>Texas<>1934<>89307<>366116
+The Optimist<>Abilene<>Texas<>1935<>98277<>381602
+The Optimist<>Abilene<>Texas<>1936<>117418<>420364
+The Optimist<>Abilene<>Texas<>1937<>111341<>385416
+The Optimist<>Abilene<>Texas<>1938<>96646<>374535
+The Optimist<>Abilene<>Texas<>1939<>83075<>394658
+The Optimist<>Abilene<>Texas<>1940<>70682<>348511
+The Optimist<>Abilene<>Texas<>1941<>53004<>265796
+The Optimist<>Abilene<>Texas<>1942<>42551<>235705
+The Optimist<>Abilene<>Texas<>1943<>41915<>234817
+The Optimist<>Abilene<>Texas<>1944<>53836<>258028
+The Optimist<>Abilene<>Texas<>1945<>40177<>220298
+The Optimist<>Abilene<>Texas<>1946<>44939<>219917
+The Optimist<>Abilene<>Texas<>1947<>53945<>268538
+The Optimist<>Abilene<>Texas<>1948<>70541<>365518
+The Optimist<>Abilene<>Texas<>1949<>69191<>372516
+The Optimist<>Abilene<>Texas<>1950<>64336<>348562
+The Optimist<>Abilene<>Texas<>1951<>65624<>354937
+The Optimist<>Abilene<>Texas<>1952<>49777<>261102
+The Optimist<>Abilene<>Texas<>1953<>52788<>271800
+The Optimist<>Abilene<>Texas<>1954<>68905<>343500
+The Optimist<>Abilene<>Texas<>1955<>85085<>411791
+The Optimist<>Abilene<>Texas<>1956<>73764<>395462
+The Optimist<>Abilene<>Texas<>1957<>61181<>306732
+The Optimist<>Abilene<>Texas<>1958<>69382<>353728
+The Optimist<>Abilene<>Texas<>1959<>62067<>328336
+The Optimist<>Abilene<>Texas<>1960<>77295<>364757
+The Optimist<>Abilene<>Texas<>1961<>75707<>366983
+The Optimist<>Abilene<>Texas<>1962<>69010<>349067
+The Optimist<>Abilene<>Texas<>1963<>61257<>305401
+The Optimist<>Abilene<>Texas<>1964<>64959<>318283
+The Optimist<>Abilene<>Texas<>1965<>64530<>309957
+The Optimist<>Abilene<>Texas<>1966<>62984<>293747
+The Optimist<>Abilene<>Texas<>1967<>61613<>290428
+The Optimist<>Abilene<>Texas<>1968<>74597<>300577
+The Optimist<>Abilene<>Texas<>1969<>57672<>294577
+The Optimist<>Abilene<>Texas<>1970<>54456<>320846
+The Optimist<>Abilene<>Texas<>1971<>73583<>277951
+The Optimist<>Abilene<>Texas<>1972<>57574<>232461
+The Optimist<>Abilene<>Texas<>1973<>83205<>302618
+The Optimist<>Abilene<>Texas<>1974<>88970<>300841
+The Optimist<>Abilene<>Texas<>1975<>52197<>273975
+The Optimist<>Abilene<>Texas<>1976<>63635<>341681
+The Optimist<>Abilene<>Texas<>1977<>78114<>419931
+The Optimist<>Abilene<>Texas<>1978<>102469<>568361
+The Optimist<>Abilene<>Texas<>1979<>134741<>779987
+The Optimist<>Abilene<>Texas<>1980<>125543<>761130
+The Optimist<>Abilene<>Texas<>1981<>116241<>749185
+The Optimist<>Abilene<>Texas<>1982<>173299<>889150
+The Optimist<>Abilene<>Texas<>1983<>299557<>1222061
+The Optimist<>Abilene<>Texas<>1984<>265708<>1103527
+The Optimist<>Abilene<>Texas<>1985<>247776<>1057648
+The Optimist<>Abilene<>Texas<>1986<>242926<>1054331
+The Optimist<>Abilene<>Texas<>1987<>227828<>934446
+The Optimist<>Abilene<>Texas<>1988<>162732<>814385
+The Optimist<>Abilene<>Texas<>1989<>179253<>857283
+The Optimist<>Abilene<>Texas<>1990<>214916<>917709
+The Optimist<>Abilene<>Texas<>1991<>271468<>1137004
+The Optimist<>Abilene<>Texas<>1992<>267371<>1166349
+The Optimist<>Abilene<>Texas<>1993<>225030<>1003090
+The Optimist<>Abilene<>Texas<>1994<>210173<>901867
+The Optimist<>Abilene<>Texas<>1995<>211938<>841241
+The Optimist<>Abilene<>Texas<>1996<>186007<>765831
+The Optimist<>Abilene<>Texas<>1997<>182773<>837461
+The Optimist<>Abilene<>Texas<>1998<>207302<>850516
+The Optimist<>Abilene<>Texas<>1999<>193958<>857213
+The Optimist<>Abilene<>Texas<>2000<>173357<>894430
+The Optimist<>Abilene<>Texas<>2001<>171687<>910153
+The Optimist<>Abilene<>Texas<>2002<>155117<>880172
+The Optimist<>Abilene<>Texas<>2003<>166710<>876268
+The Optimist<>Abilene<>Texas<>2004<>167215<>847182
+The Optimist<>Abilene<>Texas<>2005<>174851<>888758
+The Optimist<>Abilene<>Texas<>2006<>176178<>871781
+The Optimist<>Abilene<>Texas<>2007<>163708<>845790
+The Optimist<>Abilene<>Texas<>2008<>84417<>430403
+The Palo Pinto star<>Palo Pinto<>Texas<>1878<>5846<>17220
+The Palo Pinto star<>Palo Pinto<>Texas<>1885<>242497<>724746
+The Palo Pinto star<>Palo Pinto<>Texas<>1886<>141139<>420343
+The Palo Pinto star<>Palo Pinto<>Texas<>1887<>177110<>469836
+The People<>Austin<>Texas<>1838<>4109<>18309
+The Planter<>Columbia<>Texas<>1843<>10707<>46895
+The Planter<>Columbia<>Texas<>1844<>11730<>40389
+The Plow Boy<>Austin<>Texas<>1868<>8071<>51153
+The Plow Boy<>Austin<>Texas<>1869<>13301<>65434
+The Prism<>Brownwood<>Texas<>1915<>13194<>60932
+The Prism<>Brownwood<>Texas<>1916<>42851<>199806
+The Prism<>Brownwood<>Texas<>1922<>6645<>26465
+The Prism<>Brownwood<>Texas<>1923<>3155<>15179
+The Rambler<>Austin<>Texas<>1858<>4797<>16966
+The Rambler<>Austin<>Texas<>1859<>17294<>69021
+The Reata<>Abilene<>Texas<>1982<>5158<>27515
+The Reata<>Abilene<>Texas<>1983<>13964<>75776
+The Reata<>Abilene<>Texas<>1984<>7887<>40268
+The Reata<>Abilene<>Texas<>1985<>7047<>38214
+The Reata<>Abilene<>Texas<>1986<>4914<>30297
+The Reata<>Abilene<>Texas<>1987<>4421<>27035
+The Reata<>Abilene<>Texas<>1988<>4445<>27048
+The Reata<>Abilene<>Texas<>1989<>1824<>9917
+The Reata<>Abilene<>Texas<>1990<>2060<>14422
+The Reata<>Abilene<>Texas<>1991<>286<>2162
+The Red-Lander<><><>1845<>146901<>248276
+The Red-Lander<>San Augustine<>Texas<>1841<>93185<>179355
+The Red-Lander<>San Augustine<>Texas<>1842<>51892<>103642
+The Red-Lander<>San Augustine<>Texas<>1846<>110229<>203352
+The Reformer<>Austin<>Texas<>1871<>51309<>189270
+The Scorpion<><><>1860<>1623<>3012
+The Simmons Brand<>Abilene<>Texas<>1916<>23991<>83617
+The Simmons Brand<>Abilene<>Texas<>1917<>75111<>314053
+The Simmons Brand<>Abilene<>Texas<>1918<>63199<>264590
+The Simmons Brand<>Abilene<>Texas<>1919<>73423<>287738
+The Simmons Brand<>Abilene<>Texas<>1920<>56326<>247495
+The Simmons Brand<>Abilene<>Texas<>1921<>82359<>395892
+The Simmons Brand<>Abilene<>Texas<>1922<>93565<>473721
+The Simmons Brand<>Abilene<>Texas<>1923<>87692<>459558
+The Simmons Brand<>Abilene<>Texas<>1924<>87477<>456924
+The Simmons Brand<>Abilene<>Texas<>1925<>110733<>499137
+The Simmons Brand<>Abilene<>Texas<>1926<>121950<>529640
+The Simmons Brand<>Abilene<>Texas<>1927<>129376<>527011
+The Simmons Brand<>Abilene<>Texas<>1928<>103124<>440660
+The Simmons Brand<>Abilene<>Texas<>1929<>125088<>488784
+The Simmons Brand<>Abilene<>Texas<>1930<>92905<>448729
+The Simmons Brand<>Abilene<>Texas<>1931<>115272<>575541
+The Simmons Brand<>Abilene<>Texas<>1932<>116810<>579896
+The Simmons Brand<>Abilene<>Texas<>1933<>80993<>399918
+The Simmons Brand<>Abilene<>Texas<>1934<>34756<>175749
+The Sunday Herald<>Austin<>Texas<>1876<>6476<>32393
+The Texas Christian Advocate<><><>1864<>2944<>14250
+The Texas Democrat<>Austin<>Texas<>1846<>395698<>1187866
+The Texas Democrat<>Austin<>Texas<>1847<>156596<>410302
+The Texas Democrat<>Austin<>Texas<>1848<>135854<>481477
+The Texas Democrat<>Austin<>Texas<>1849<>127230<>473232
+The Texas Gazette<><><>1829<>2597<>7370
+The Texas Gazette<><><>1830<>3752<>9014
+The Texas Monument<>La Grange<>Texas<>1850<>6394<>24342
+The Texas Monument<>La Grange<>Texas<>1851<>50511<>127461
+The Texas Monument<>La Grange<>Texas<>1852<>2056<>10097
+The Texas Republican<><><>1836<>2355<>7674
+The Texas Republican<>Brazoria<>Texas<>1834<>11712<>44606
+The Texas Republican<>Brazoria<>Texas<>1835<>85616<>280710
+The Texas Times<>Galveston<>Texas<>1842<>38680<>128458
+The Texas Times<>Galveston<>Texas<>1843<>33482<>106806
+The Texas Union<>San Augustine<>Texas<>1848<>55888<>133489
+The Texas banner<>Huntsville<>Texas<>1847<>9605<>30531
+The Texas banner<>Huntsville<>Texas<>1849<>30318<>87789
+The Texas ranger<>Brenham<>Texas<>1857<>18171<>60749
+The Texas ranger<>Brenham<>Texas<>1859<>9665<>29775
+The Texas ranger<>Brenham<>Texas<>1860<>10039<>27941
+The Texas ranger<>Washington<>Texas<>1849<>7187<>27861
+The Texas ranger<>Washington<>Texas<>1850<>9642<>26452
+The Texas ranger<>Washington<>Texas<>1852<>7618<>29437
+The Texas ranger<>Washington<>Texas<>1853<>395341<>1007040
+The Texas ranger<>Washington<>Texas<>1854<>399328<>1428304
+The Texas ranger<>Washington<>Texas<>1855<>299908<>1153742
+The Texas ranger<>Washington<>Texas<>1856<>69721<>232397
+The Tulia herald<><><>1923<>133073<>573996
+The Tulia herald<>Tulia<>Texas<>1918<>268565<>1173928
+The Tulia herald<>Tulia<>Texas<>1919<>251817<>1211860
+The Tulia herald<>Tulia<>Texas<>1920<>435851<>1169777
+The Tulia herald<>Tulia<>Texas<>1922<>309445<>1184316
+The Tulia herald<>Tulia<>Texas<>1923<>118231<>541168
+The Tulia herald<>Tulia<>Texas<>1924<>180935<>1256221
+The Tulia herald<>Tulia<>Texas<>1925<>460276<>1336469
+The Tulia herald<>Tulia<>Texas<>1926<>374828<>1233004
+The Tulia herald<>Tulia<>Texas<>1927<>208341<>1167709
+The Tulia herald<>Tulia<>Texas<>1928<>242198<>1293231
+The Tulia herald<>Tulia<>Texas<>1929<>347654<>1328193
+The Tulia herald<>Tulia<>Texas<>1930<>466381<>1476948
+The Tulia herald<>Tulia<>Texas<>1931<>210948<>1263650
+The Tulia herald<>Tulia<>Texas<>1932<>295418<>1323005
+The Tulia herald<>Tulia<>Texas<>1933<>244035<>1238033
+The Tulia herald<>Tulia<>Texas<>1934<>220634<>1152043
+The Tulia herald<>Tulia<>Texas<>1935<>262870<>1290617
+The Tulia herald<>Tulia<>Texas<>1936<>324184<>1276374
+The Tulia herald<>Tulia<>Texas<>1937<>311498<>1309541
+The Tulia herald<>Tulia<>Texas<>1938<>185445<>1228426
+The Tulia herald<>Tulia<>Texas<>1939<>182663<>1331556
+The Tulia herald<>Tulia<>Texas<>1940<>181768<>1386689
+The Tulia herald<>Tulia<>Texas<>1941<>222081<>1296997
+The Tulia herald<>Tulia<>Texas<>1942<>245935<>1317378
+The Tulia herald<>Tulia<>Texas<>1943<>184752<>1198009
+The Tulia herald<>Tulia<>Texas<>1944<>195842<>1036097
+The Tulia herald<>Tulia<>Texas<>1945<>226162<>995790
+The Tulia herald<>Tulia<>Texas<>1946<>235362<>1071373
+The Tulia herald<>Tulia<>Texas<>1947<>157893<>867842
+The Tulia herald<>Tulia<>Texas<>1953<>85476<>615273
+The Tulia herald<>Tulia<>Texas<>1954<>194972<>1456093
+The Tulia herald<>Tulia<>Texas<>1955<>202959<>1622408
+The Tulia herald<>Tulia<>Texas<>1956<>198890<>1744926
+The Tulia herald<>Tulia<>Texas<>1957<>182910<>1394844
+The Tulia herald<>Tulia<>Texas<>1958<>206145<>2056882
+The Tulia herald<>Tulia<>Texas<>1959<>255188<>2092246
+The Tulia herald<>Tulia<>Texas<>1960<>603995<>2136089
+The Tulia herald<>Tulia<>Texas<>1961<>328863<>1940195
+The Tulia herald<>Tulia<>Texas<>1962<>353631<>2009109
+The War Whoop<>Abilene<>Texas<>1923<>13812<>40808
+The War Whoop<>Abilene<>Texas<>1924<>110744<>311352
+The War Whoop<>Abilene<>Texas<>1925<>191563<>452563
+The War Whoop<>Abilene<>Texas<>1926<>131058<>375541
+The War Whoop<>Abilene<>Texas<>1927<>85244<>185834
+The War Whoop<>Abilene<>Texas<>1950<>36600<>164509
+The War Whoop<>Abilene<>Texas<>1951<>55888<>269292
+The War Whoop<>Abilene<>Texas<>1952<>59489<>277623
+The War Whoop<>Abilene<>Texas<>1953<>47337<>237189
+The War Whoop<>Abilene<>Texas<>1954<>39707<>208963
+The War Whoop<>Abilene<>Texas<>1955<>34398<>174783
+The War Whoop<>Abilene<>Texas<>1956<>38164<>162419
+The War Whoop<>Abilene<>Texas<>1957<>42592<>186864
+The War Whoop<>Abilene<>Texas<>1958<>41370<>198897
+The War Whoop<>Abilene<>Texas<>1959<>45279<>191202
+The War Whoop<>Abilene<>Texas<>1960<>60528<>196032
+The War Whoop<>Abilene<>Texas<>1961<>55847<>162607
+The War Whoop<>Abilene<>Texas<>1962<>42234<>185796
+The War Whoop<>Abilene<>Texas<>1963<>30363<>178019
+The War Whoop<>Abilene<>Texas<>1964<>29392<>164438
+The War Whoop<>Abilene<>Texas<>1965<>27926<>168025
+The War Whoop<>Abilene<>Texas<>1966<>34663<>163178
+The War Whoop<>Abilene<>Texas<>1967<>35518<>167742
+The War Whoop<>Abilene<>Texas<>1968<>34628<>172246
+The War Whoop<>Abilene<>Texas<>1969<>37791<>181840
+The War Whoop<>Abilene<>Texas<>1970<>38241<>179960
+The War Whoop<>Abilene<>Texas<>1971<>39854<>178663
+The War Whoop<>Abilene<>Texas<>1972<>41064<>168057
+The War Whoop<>Abilene<>Texas<>1973<>42128<>165234
+The War Whoop<>Abilene<>Texas<>1974<>39214<>140322
+The War Whoop<>Abilene<>Texas<>1975<>36963<>129455
+The War Whoop<>Abilene<>Texas<>1976<>24987<>118032
+The War Whoop<>Abilene<>Texas<>1977<>35399<>160636
+The War Whoop<>Abilene<>Texas<>1978<>26960<>121587
+The War Whoop<>Abilene<>Texas<>1979<>26045<>115987
+The War Whoop<>Abilene<>Texas<>1980<>30492<>121401
+The War Whoop<>Abilene<>Texas<>1981<>31674<>126547
+The War Whoop<>Abilene<>Texas<>1982<>21880<>131582
+The War Whoop<>Abilene<>Texas<>1983<>24935<>140454
+The War Whoop<>Abilene<>Texas<>1984<>22507<>135108
+The War Whoop<>Abilene<>Texas<>1985<>20565<>124948
+The War Whoop<>Abilene<>Texas<>1986<>20808<>115680
+The War Whoop<>Abilene<>Texas<>1987<>20904<>120290
+The War Whoop<>Abilene<>Texas<>1988<>18508<>104939
+The War Whoop<>Abilene<>Texas<>1989<>15790<>90709
+The War Whoop<>Abilene<>Texas<>1990<>17970<>110683
+The War Whoop<>Abilene<>Texas<>1991<>20043<>114354
+The War Whoop<>Abilene<>Texas<>1992<>25496<>151151
+The War Whoop<>Abilene<>Texas<>1993<>19842<>120532
+The War Whoop<>Abilene<>Texas<>1994<>11934<>68400
+The War Whoop<>Abilene<>Texas<>1995<>12676<>66438
+The War Whoop<>Abilene<>Texas<>1996<>11871<>68509
+The War Whoop<>Abilene<>Texas<>1997<>6721<>45106
+The War Whoop<>Abilene<>Texas<>1998<>11689<>70286
+The War Whoop<>Abilene<>Texas<>1999<>13645<>72916
+The War Whoop<>Abilene<>Texas<>2000<>16292<>97823
+The War Whoop<>Abilene<>Texas<>2001<>18622<>99498
+The War Whoop<>Abilene<>Texas<>2002<>23262<>113177
+The War Whoop<>Abilene<>Texas<>2003<>30811<>134969
+The War Whoop<>Abilene<>Texas<>2004<>23913<>116557
+The War Whoop<>Abilene<>Texas<>2005<>20988<>72824
+The War Whoop<>Abilene<>Texas<>2006<>3426<>14430
+The Weekly Citizen<>Houston<>Texas<>1843<>8755<>24684
+The Weekly News<>Galveston<>Texas<>1844<>6440<>33406
+The Weekly Texian<><><>1841<>38154<>79887
+The Weekly Texian<><><>1842<>47054<>94841
+The Western Texan<><><>1853<>70102<>199588
+The Western Texan<><><>1854<>200399<>552759
+The Western Texan<>San Antonio<>Texas<>1848<>18094<>50653
+The Western Texan<>San Antonio<>Texas<>1849<>18426<>46983
+The Western Texan<>San Antonio<>Texas<>1850<>27251<>68303
+The Western Texan<>San Antonio<>Texas<>1851<>143229<>440543
+The Western Texan<>San Antonio<>Texas<>1852<>277101<>731687
+The Western Texan<>San Antonio<>Texas<>1853<>61535<>148296
+The Yellow Jacket<>Brownwood<>Texas<>1923<>45649<>121259
+The Yellow Jacket<>Brownwood<>Texas<>1924<>122587<>282740
+The Yellow Jacket<>Brownwood<>Texas<>1925<>159707<>412343
+The Yellow Jacket<>Brownwood<>Texas<>1926<>168602<>420599
+The Yellow Jacket<>Brownwood<>Texas<>1927<>135052<>394949
+The Yellow Jacket<>Brownwood<>Texas<>1928<>49447<>153258
+The Yellow Jacket<>Brownwood<>Texas<>1929<>32182<>130291
+The Yellow Jacket<>Brownwood<>Texas<>1930<>24327<>137100
+The Yellow Jacket<>Brownwood<>Texas<>1931<>32462<>201930
+The Yellow Jacket<>Brownwood<>Texas<>1932<>30998<>190773
+The Yellow Jacket<>Brownwood<>Texas<>1933<>56355<>321780
+The Yellow Jacket<>Brownwood<>Texas<>1934<>74893<>379787
+The Yellow Jacket<>Brownwood<>Texas<>1935<>61056<>337608
+The Yellow Jacket<>Brownwood<>Texas<>1936<>84237<>443581
+The Yellow Jacket<>Brownwood<>Texas<>1937<>85069<>390185
+The Yellow Jacket<>Brownwood<>Texas<>1938<>86070<>482540
+The Yellow Jacket<>Brownwood<>Texas<>1939<>99087<>451683
+The Yellow Jacket<>Brownwood<>Texas<>1940<>77372<>416002
+The Yellow Jacket<>Brownwood<>Texas<>1941<>85570<>424286
+The Yellow Jacket<>Brownwood<>Texas<>1942<>76307<>405347
+The Yellow Jacket<>Brownwood<>Texas<>1943<>17726<>87966
+The Yellow Jacket<>Brownwood<>Texas<>1944<>9551<>54383
+The Yellow Jacket<>Brownwood<>Texas<>1945<>34845<>167389
+The Yellow Jacket<>Brownwood<>Texas<>1946<>63270<>311611
+The Yellow Jacket<>Brownwood<>Texas<>1947<>86401<>409883
+The Yellow Jacket<>Brownwood<>Texas<>1948<>95613<>372883
+The Yellow Jacket<>Brownwood<>Texas<>1949<>92285<>364029
+The Yellow Jacket<>Brownwood<>Texas<>1950<>107011<>426149
+The Yellow Jacket<>Brownwood<>Texas<>1951<>93741<>367768
+The Yellow Jacket<>Brownwood<>Texas<>1952<>42504<>218221
+The Yellow Jacket<>Brownwood<>Texas<>1953<>31547<>160232
+The Yellow Jacket<>Brownwood<>Texas<>1954<>42886<>206947
+The Yellow Jacket<>Brownwood<>Texas<>1955<>29480<>145141
+The Yellow Jacket<>Brownwood<>Texas<>1956<>39642<>204338
+The Yellow Jacket<>Brownwood<>Texas<>1957<>44746<>207512
+The Yellow Jacket<>Brownwood<>Texas<>1958<>46241<>233917
+The Yellow Jacket<>Brownwood<>Texas<>1959<>55264<>241039
+The Yellow Jacket<>Brownwood<>Texas<>1960<>32259<>129643
+The Yellow Jacket<>Brownwood<>Texas<>1972<>22551<>104637
+The Yellow Jacket<>Brownwood<>Texas<>1973<>31563<>158405
+The Yellow Jacket<>Brownwood<>Texas<>1974<>33050<>173932
+The Yellow Jacket<>Brownwood<>Texas<>1975<>22521<>132658
+The Yellow Jacket<>Brownwood<>Texas<>1976<>25183<>135896
+The Yellow Jacket<>Brownwood<>Texas<>1977<>28296<>149983
+The Yellow Jacket<>Brownwood<>Texas<>1978<>29048<>153918
+The Yellow Jacket<>Brownwood<>Texas<>1979<>29735<>191665
+The Yellow Jacket<>Brownwood<>Texas<>1980<>26716<>173011
+The Yellow Jacket<>Brownwood<>Texas<>1981<>24842<>161760
+The Yellow Jacket<>Brownwood<>Texas<>1982<>23709<>156589
+The Yellow Jacket<>Brownwood<>Texas<>1983<>22610<>136620
+The Yellow Jacket<>Brownwood<>Texas<>1984<>18472<>106612
+The Yellow Jacket<>Brownwood<>Texas<>1985<>18490<>106579
+The Yellow Jacket<>Brownwood<>Texas<>1986<>20644<>114865
+The Yellow Jacket<>Brownwood<>Texas<>1987<>21317<>117789
+The Yellow Jacket<>Brownwood<>Texas<>1988<>19615<>117242
+The Yellow Jacket<>Brownwood<>Texas<>1989<>13840<>95657
+The Yellow Jacket<>Brownwood<>Texas<>1990<>12838<>99449
+The Yellow Jacket<>Brownwood<>Texas<>1991<>21977<>157017
+The Yellow Jacket<>Brownwood<>Texas<>1992<>24589<>168370
+The Yellow Jacket<>Brownwood<>Texas<>1993<>25764<>161519
+The Yellow Jacket<>Brownwood<>Texas<>1994<>54617<>282412
+The Yellow Jacket<>Brownwood<>Texas<>1995<>40266<>223134
+The Yellow Jacket<>Brownwood<>Texas<>1996<>30842<>181516
+The Yellow Jacket<>Brownwood<>Texas<>1997<>43526<>256100
+The Yellow Jacket<>Brownwood<>Texas<>1998<>55800<>314761
+The Yellow Jacket<>Brownwood<>Texas<>1999<>56726<>319617
+The Yellow Jacket<>Brownwood<>Texas<>2000<>46238<>267221
+The Yellow Jacket<>Brownwood<>Texas<>2001<>43811<>241031
+The Yellow Jacket<>Brownwood<>Texas<>2002<>36512<>194750
+The Yellow Jacket<>Brownwood<>Texas<>2003<>35702<>151768
+The Yellow Jacket<>Brownwood<>Texas<>2004<>60206<>220310
+The Yellow Jacket<>Brownwood<>Texas<>2005<>34093<>135632
+The Yellow Jacket<>Brownwood<>Texas<>2006<>17792<>100618
+The Yellow Jacket<>Brownwood<>Texas<>2007<>20991<>108400
+The Yellow Jacket<>Brownwood<>Texas<>2008<>13404<>66141
+The commercial<>Lavaca<>Texas<>1850<>8618<>22940
+The true issue<>La Grange<>Texas<>1856<>7358<>20939
+The true issue<>La Grange<>Texas<>1857<>9315<>24790
+The true issue<>La Grange<>Texas<>1858<>8167<>25464
+The true issue<>La Grange<>Texas<>1859<>8125<>26860
+The true issue<>La Grange<>Texas<>1863<>6542<>15100
+The true issue<>La Grange<>Texas<>1864<>1787<>7354
+The western star<>Palo Pinto<>Texas<>1877<>4880<>12135
+The western star<>Palo Pinto<>Texas<>1878<>10034<>24795
+Tri-Weekly Gazette<>Austin<>Texas<>1849<>4561<>17984
+Tri-Weekly State Times<><><>1856<>22129<>91471
+Tri-Weekly State Times<>Austin<>Texas<>1854<>131168<>632236
+Tri-Weekly State Times<>Austin<>Texas<>1855<>2739<>14564
+Tribune-Progress<>Taylor<>Texas<>1979<>228140<>1122536
+Tribune-Progress<>Taylor<>Texas<>1982<>242853<>1139686
