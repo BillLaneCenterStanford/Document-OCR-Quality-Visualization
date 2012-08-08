@@ -1,11 +1,11 @@
 Mapping Texts is a collaboration between the University of North Texas and Stanford University aimed at experimenting with new methods for finding and analyzing meaningful patterns embedded in massive collections of digital newspapers.
 
-Using a collection of 232,500 pages of historical newspapers digitized for the Chronicling America project, we have developed two interactive visualizations that allow you to explore both the quality of these digitized newspapers:
+Using a collection of 232,500 pages of historical newspapers digitized for the Chronicling America project, we have developed an interactive visualization that allows you to explore both the quality of these digitized newspapers:
 
 Interactive Visualization: Assessing Newspaper Quality
 http://mappingtexts.stanford.edu/quality
 
-The source code for this visualization, which links to but does not include the following Javascript libraries:
+This is the source code for this visualization, which links to but does not include the following Javascript libraries:
 
 Google Javascript API: https://www.google.com/jsapi
 Google Maps API: http://maps.google.com/maps/api/js?sensor=false
