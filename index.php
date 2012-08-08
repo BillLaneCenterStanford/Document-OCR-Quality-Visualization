@@ -9,7 +9,7 @@
 <!-- Dependencies --> 
 
 
-<script type="text/javascript" src="./cufon-yui.js"></script>
+<script type="text/javascript" src="http://cufon.shoqolate.com/js/cufon-yui.js?v=1.09i"></script>
 <script type="text/javascript" src="./Glarendon_500.font.js"></script>
 
 		<script type="text/javascript">
@@ -28,12 +28,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://vis.stanford.edu/protovis/protovis-r3.2.js"></script>
 
-<!--link rel="stylesheet" type="text/css" href="shttp://www.simile-widgets.org/timeline/examples/styles.css"/--> 
-
 <link rel="stylesheet" type="text/css" href="./commonFromSimile.css"/> 
 
 <link type="text/css" rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/themes/base/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="stimeline_style.css"/> 
 
 <link rel="stylesheet" type="text/css" href="style.css"/>
 
@@ -1202,11 +1199,7 @@ $(function() {
       <!-- size legend -->
       <div id="legend_size"></div>
       <div class="legend_text"><i>Circle size is relative to total number of words scanned. Color indicates overall scan quality.</i></div>
-      <!-- GM eliminated 3/29/2012-->
-      
-      <!--button style="margin-top:100px;color:#333;cursor:pointer;width:500px;height:30px;width:100%;float:left;clear:both;" class="clickexpand movable">Click to show/hide historic timeline</button-->
-      
-      <!-- GM eliminated 3/29/2012-->
+
       
       
     </div>

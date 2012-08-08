@@ -1,6 +1,20 @@
-http://stanford.edu/~yinfeng/cgi-bin/vis_TX/index.php
+Mapping Texts is a collaboration between the University of North Texas and Stanford University aimed at experimenting with new methods for finding and analyzing meaningful patterns embedded in massive collections of digital newspapers.
 
-Texas History sites:
-    http://texashistory.unt.edu/ark:/67531/metapth80351/m1/2/zoom/
+Using a collection of 232,500 pages of historical newspapers digitized for the Chronicling America project, we have developed two interactive visualizations that allow you to explore both the quality of these digitized newspapers:
 
+Interactive Visualization: Assessing Newspaper Quality
+http://mappingtexts.stanford.edu/quality
+
+The source code for this visualization, which links to but does not include the following Javascript libraries:
+
+Google Javascript API: https://www.google.com/jsapi
+Google Maps API: http://maps.google.com/maps/api/js?sensor=false
+JQuery: http://jquery.com
+Simile Timeline: http://www.simile-widgets.org/timeline/
+Cufón font substitution script: http://cufon.shoqolate.com 
+Protovis Visualization Library: http://vis.stanford.edu/protovis
+
+We have also produced a white paper (http://mappingtexts.stanford.edu/whitepaper) that details the project, our experiments, and our findings.
+
+For more about this project, see our mission description (http://mappingtexts.stanford.edu/?page_id=3). This project has been generously supported by the National Endowment for the Humanities.
 
