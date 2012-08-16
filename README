@@ -3,7 +3,7 @@ Mapping Texts is a collaboration between the University of North Texas and Stanf
 Using a collection of 232,500 pages of historical newspapers digitized for the Chronicling America project, we have developed an interactive visualization that allows you to explore both the quality of these digitized newspapers:
 
 Interactive Visualization: Assessing Newspaper Quality
-http://mappingtexts.stanford.edu/quality
+http://mappingtexts.org/quality
 
 This is the source code for this visualization, which links to but does not include the following Javascript libraries:
 
@@ -14,7 +14,7 @@ Simile Timeline: http://www.simile-widgets.org/timeline/
 Cufón font substitution script: http://cufon.shoqolate.com 
 Protovis Visualization Library: http://vis.stanford.edu/protovis
 
-We have also produced a white paper (http://mappingtexts.stanford.edu/whitepaper) that details the project, our experiments, and our findings.
+We have also produced a white paper (http://mappingtexts.org/whitepaper) that details the project, our experiments, and our findings.
 
-For more about this project, see our mission description (http://mappingtexts.stanford.edu/?page_id=3). This project has been generously supported by the National Endowment for the Humanities.
+For more about this project, see our mission description (http://mappingtexts.org/?page_id=3). This project has been generously supported by the National Endowment for the Humanities.
 
